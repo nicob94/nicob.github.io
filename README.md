@@ -1,6 +1,10 @@
 ## Welcome to My GitHub Page 
 
-I am currently attending the Coursera course: [Link](https://www.coursera.org/learn/html-css-javascript-for-web-developers/home/welcome)
+I am currently attending the Coursera course: [HTML, CSS, and Javascript for Web Developers](https://www.coursera.org/learn/html-css-javascript-for-web-developers/home/welcome)
+
+You can find my assigments here: 
+
+-code: 
 
 ### Markdown
 
