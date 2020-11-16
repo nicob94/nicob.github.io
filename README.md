@@ -1,6 +1,6 @@
 ## Welcome to My GitHub Page 
 
-I am currently attending the 
+I am currently attending the Coursera course: [Link](https://www.coursera.org/learn/html-css-javascript-for-web-developers/home/welcome)
 
 ### Markdown
 
