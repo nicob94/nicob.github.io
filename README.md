@@ -4,7 +4,7 @@ I am currently attending the Coursera course: [HTML, CSS, and Javascript for Web
 
 You can find my assigments here: 
 
--code: 
+- List Module 2: [code](nicob.github.io/site/module2-solution)
 
 ### Markdown
 
