@@ -1,0 +1,104 @@
+body {
+    font-size: 16px;
+    color: rgb(0, 0, 0);
+    background-color: #F5F5F5;
+    font-family: 'Helvetica', sans-serif;
+  }
+  
+  /** HEADER **/
+  #header-nav {
+    background-color: #BEBEBE;
+    border-radius: 0;
+    border: 0;
+    margin-left:-15px;
+    margin-right:-15px;
+    margin-bottom:0px;
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+
+  .navbar-brand {
+    padding-top: 15px;
+    padding-bottom: 15px;
+  }
+
+  
+  .navbar-brand h1 { /* Restaurant name */
+    font-family: 'Helvetica', serif;
+    color: 	#000000;
+    font-size: 1.5em;
+    font-weight: 800;
+    margin-top: 0;
+    margin-bottom: 0;
+    line-height: .75;
+    margin-left:15px;
+  }
+
+  #header-nav + div {
+    justify-content: left;
+  }
+  .navbar-brand a:hover, .navbar-brand a:focus {
+    text-decoration: none;
+  }
+#header-nav{
+  padding-bottom:0px;
+}
+  .navbar-toggler{
+    margin-right: 15px;
+  }
+
+  .navbar-toggler-icon {
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='30' height='30' viewBox='0 0 30 30'%3e%3cpath stroke='rgba%280, 0, 0, 0.5%29' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+  }
+
+    /** COLLAPSABLE MENU **/
+    .nav-link {
+      font-family: 'Helvetica', serif;
+      color: 	#000000;
+      font-weight: bold;
+    }
+
+    #collapsibleNavbar {
+      border-top: 1px solid;
+    }
+
+.nav-item{
+  border-bottom: 1px solid;
+}
+
+  
+   /** BODY **/
+
+   .container h2 {
+     font-weight: bold;
+     margin-top: 35px;
+   }
+   .menu-section {
+    background-color: #BEBEBE;
+    border-radius: 0;
+    border: 0;
+    margin-top: 35px;
+  }
+
+  .menu-section #chicken-title {
+    background-color: #c27f8a;
+    font-weight: Bold;
+    margin-left:-15px;
+    margin-right:-15px;
+  }
+
+  .menu-section #beef-title {
+    background-color: brown;
+    color: white;
+    font-weight: Bold;
+    margin-left:-15px;
+    margin-right:-15px;
+  }
+
+
+  .menu-section #sushi-title {
+    background-color: burlywood;
+    font-weight: Bold;
+    margin-left:-15px;
+    margin-right:-15px;
+  }
